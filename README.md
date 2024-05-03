@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Olá, eu sou o Andrew Vargas</h1>
+<h3 align="center">Especialista em análise e desenvolvimento de sistemas</h3>
 
-<!--
-**AndrewVargas1991/AndrewVargas1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Analista de Sistemas em busca de **parcerias profissionais**
 
-Here are some ideas to get you started:
+- ⚡ Formação acadêmica:
+**	Tecnólogo em Análise e Desenvolvimento de Sistemas;
+ 	Pós-graduação em Administração de Banco de Dados;
+ 	Pós-graduação em Data Center e Cloud Computing (Computação em Nuvem);
+ 	Pós-graduação em Desenvolvimento Web Full Stack;
+ 	Pós-graduação em Desenvolvimento Mobile (Android e iOS);
+ 	Pós-graduação em Segurança da Informação.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Meu currículo completo pode ser acessado aqui: [https://www.linkedin.com/in/andrew-martins-de-vargas](https://www.linkedin.com/in/andrew-martins-de-vargas)
+
+- 👨‍💻 Trabalho com consultoria de tecnologia e carreira, posso te ajudar a traçar um plano de estudos para atingir seus objetivos e compreender que tecnologias deve dominar para realizar seus projetos
+
+- 💬 Me mande um Whats e deixe-me te ajudar **(54) 9 9140-8725**
+
+- 📫 Ou me envie um e-mail: **andrewmvargas@yahoo.com.br**
