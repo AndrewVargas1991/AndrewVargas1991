@@ -4,11 +4,11 @@
 - 🌱 Analista de Sistemas em busca de **parcerias profissionais**
 
 - ⚡ Formação acadêmica:
-**	Tecnólogo em Análise e Desenvolvimento de Sistemas;
- 	Pós-graduação em Administração de Banco de Dados;
- 	Pós-graduação em Data Center e Cloud Computing (Computação em Nuvem);
- 	Pós-graduação em Desenvolvimento Web Full Stack;
- 	Pós-graduação em Desenvolvimento Mobile (Android e iOS);
+**Tecnólogo em Análise e Desenvolvimento de Sistemas;<br>
+ 	Pós-graduação em Administração de Banco de Dados;<br>
+ 	Pós-graduação em Data Center e Cloud Computing (Computação em Nuvem);<br>
+ 	Pós-graduação em Desenvolvimento Web Full Stack;<br>
+ 	Pós-graduação em Desenvolvimento Mobile (Android e iOS);<br>
  	Pós-graduação em Segurança da Informação.**
 
 - 📄 Meu currículo completo pode ser acessado aqui: [https://www.linkedin.com/in/andrew-martins-de-vargas](https://www.linkedin.com/in/andrew-martins-de-vargas)
