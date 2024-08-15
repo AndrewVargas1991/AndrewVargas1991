@@ -10,6 +10,7 @@
 -> **Pós-graduação** em Desenvolvimento Web Full Stack;<br>
 -> **Pós-graduação** em Desenvolvimento Mobile (Android e iOS);<br>
 -> **Pós-graduação** em Segurança da Informação.<br>
+-> **Pós-graduação** em Blockchain e Smart Contracts.<br>
 
 - 📄 Meu currículo completo pode ser acessado aqui: [https://www.linkedin.com/in/andrew-martins-de-vargas](https://www.linkedin.com/in/andrew-martins-de-vargas)
 
